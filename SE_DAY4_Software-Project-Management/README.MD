@@ -143,7 +143,7 @@ Growing Tutoring Industry – The private tutoring market is expected to grow at
 Expanding Student Base – Millions of students worldwide require academic support, creating a strong user base.
 Shift to Digital Platforms – Schools and individuals prefer online and hybrid tutoring for flexibility and accessibility.
 Monetization Potential – The platform can generate revenue through subscription models, commission-based earnings, and premium features.
-dfd
+
 13. How can understanding market trends inform your software’s positioning and development?
 How Understanding Market Trends Helps in Software Positioning & Development
 Identifies User Needs – Helps tailor features to match what students and tutors are actively looking for.
